@@ -1,12 +1,3 @@
-/*
-            LIBRARY MANAGEMENT SYSTEM
-Project By:
-AP21110010330 - Aditya Maddulapalli
-AP21110010331 - Sai Pragna Koritala
-AP21110010332 - Pendem Teja
-AP21110010333 - Pathan Sohailkhan
-*/
-
 #include <iostream>
 #include <vector>
 #include <unordered_map>
