@@ -1,5 +1,4 @@
 # library-management-system
-# Library Management System
 
 This is a simple Library Management System implemented in C++ that allows librarians to manage books, users, and fines efficiently. The system provides features for book issuance, return, renewal, and fine management.
 
